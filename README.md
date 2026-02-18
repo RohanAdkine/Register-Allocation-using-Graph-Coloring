@@ -46,6 +46,3 @@ This implementation simulates how compilers minimize memory usage by:
 - Graph-based algorithm implementation  
 
 
-
-## 📂 Project Structure
-
