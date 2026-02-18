@@ -1,10 +1,10 @@
-# 🧠 Register Allocation using Graph Coloring
+# Register Allocation using Graph Coloring
 
 This project demonstrates **Register Allocation** using the **Graph Coloring Algorithm**, a fundamental optimization technique in **Compiler Design**.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Register allocation is the process of assigning program variables to a limited number of CPU registers to improve execution efficiency.  
 
@@ -18,7 +18,7 @@ This implementation simulates how compilers minimize memory usage by:
 
 ---
 
-## 🏗️ Algorithm Workflow
+## Algorithm Workflow
 
 1. Perform liveness analysis on variables.
 2. Build an interference graph.
@@ -28,7 +28,7 @@ This implementation simulates how compilers minimize memory usage by:
 
 ---
 
-## 📊 Key Concepts
+## Key Concepts
 
 - Compiler Optimization  
 - Liveness Analysis  
